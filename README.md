@@ -1,6 +1,6 @@
 # Welcome To Our Website
 
-  Ravi Kumar        chakri
+  Ravi        chakri
   Abhiram           Eswar
   Chaitanya         Trinadh
   Aryan             Pavan
