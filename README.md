@@ -1,12 +1,7 @@
 Welcome To Our Website
-# Ravi Kumar
-# Abhiram
-# Eswar
-# chaitanya
-# Trinadh
-# chakri
-# Aryan
-# Pavan
-# Akhil
-# Nishanth
+# Ravi Kumar        chakri
+  Abhiram           Eswar
+  Chaitanya         Trinadh
+  Aryan             Pavan
+  Akhil             Nishanth
 ![](Friends.jpg)
