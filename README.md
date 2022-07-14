@@ -5,14 +5,14 @@
   Chaitanya         Trinadh
   Aryan             Pavan
   Akhil             Nishanth
-![](pic2)
-![](pic3)
-![](pic4)
-![](pic4,1)
-![](pic5)
-![](pic6)
-![](pic7)
-![](pic8)
-![](pic9)
-![](pic1)
+![](pic2.jpeg)
+![](pic3.jpeg)
+![](pic4.jpeg)
+![](pic4,1.jpeg)
+![](pic5.jpeg)
+![](pic6.jpeg)
+![](pic7.jpeg)
+![](pic8.jpeg)
+![](pic9.jpeg)
+![](pic1.jpg)
 # Coming Soon...
