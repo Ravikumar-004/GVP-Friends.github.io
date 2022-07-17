@@ -9,7 +9,6 @@
 ![](pic3.jpeg)
 ![](pic4.jpeg)
 ![](pic4,1.jpeg)
-![](pic5.jpeg)
 ![](pic6.jpeg)
 ![](pic7.jpeg)
 ![](pic8.jpeg)
