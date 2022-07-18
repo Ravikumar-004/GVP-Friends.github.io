@@ -5,7 +5,6 @@
   Chaitanya         Trinadh
   Aryan             Pavan
   Akhil             Nishanth
-![](pic2.jpeg)
 ![](pic3.jpeg)
 ![](pic4.jpeg)
 ![](pic4,1.jpeg)
